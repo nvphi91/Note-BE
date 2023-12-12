@@ -2,7 +2,7 @@ module.exports =  {
     authors: [
       {
         id: 123,
-        name: 'HoleTex'
+        name: 'phi nguyen'
       },
       {
         id: 999,
